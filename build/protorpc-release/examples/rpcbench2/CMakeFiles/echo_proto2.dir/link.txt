@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libecho_proto2.a CMakeFiles/echo_proto2.dir/echo.pb.cc.o
+/usr/bin/ranlib ../../lib/libecho_proto2.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libcollect_proto.a CMakeFiles/collect_proto.dir/collect.pb.cc.o
+/usr/bin/ranlib ../../lib/libcollect_proto.a

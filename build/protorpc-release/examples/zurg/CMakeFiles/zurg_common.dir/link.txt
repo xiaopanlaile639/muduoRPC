@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libzurg_common.a CMakeFiles/zurg_common.dir/common/ProtobufLog.cc.o CMakeFiles/zurg_common.dir/common/Util.cc.o
+/usr/bin/ranlib ../../lib/libzurg_common.a

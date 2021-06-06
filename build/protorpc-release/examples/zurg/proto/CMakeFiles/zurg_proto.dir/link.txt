@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libzurg_proto.a CMakeFiles/zurg_proto.dir/slave.pb.cc.o CMakeFiles/zurg_proto.dir/master.pb.cc.o
+/usr/bin/ranlib ../../../lib/libzurg_proto.a

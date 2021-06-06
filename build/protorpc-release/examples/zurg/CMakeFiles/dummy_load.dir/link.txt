@@ -1,0 +1,1 @@
+g++ -g -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wno-error=shadow -Wwrite-strings -march=native -std=c++11 -O2 -finline-limit=1000 -DNDEBUG -rdynamic CMakeFiles/dummy_load.dir/dummyload/dummyload.cc.o -o ../../bin/dummy_load   -L/home/pan/Desktop/work/soft/build/release-install-cpp11/lib 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libwordfreq_proto.a CMakeFiles/wordfreq_proto.dir/wordfreq.pb.cc.o
+/usr/bin/ranlib ../../lib/libwordfreq_proto.a

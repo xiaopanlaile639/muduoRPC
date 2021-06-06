@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnqueens_proto.a CMakeFiles/nqueens_proto.dir/nqueens.pb.cc.o
+/usr/bin/ranlib ../../lib/libnqueens_proto.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libsudoku_proto2.a CMakeFiles/sudoku_proto2.dir/sudoku.pb.cc.o
+/usr/bin/ranlib ../../lib/libsudoku_proto2.a
